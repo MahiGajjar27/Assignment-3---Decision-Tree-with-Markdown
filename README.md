@@ -1,1 +1,1 @@
-# Assignment-3---Decision-Tree-with-Markdown
+In this assignment, we built a decision tree from scratch to classify mushrooms as edible or poisonous based on their physical attributes. We started by calculating entropy at nodes to measure impurity. Then, we split the dataset based on features to maximize information gain, constructing a tree with a maximum depth of 2. This exercise helped us understand the basics of decision tree construction, including entropy calculation, dataset splitting, and information gain computation.
